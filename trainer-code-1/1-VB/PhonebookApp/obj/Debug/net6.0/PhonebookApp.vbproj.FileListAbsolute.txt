@@ -1,0 +1,15 @@
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\PhonebookApp.exe
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\PhonebookApp.deps.json
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\PhonebookApp.runtimeconfig.json
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\PhonebookApp.dll
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\ref\PhonebookApp.dll
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\bin\Debug\net6.0\PhonebookApp.pdb
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.vbproj.AssemblyReference.cache
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.AssemblyInfoInputs.cache
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.AssemblyInfo.vb
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.vbproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.dll
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\ref\PhonebookApp.dll
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.pdb
+C:\Users\JP\source\repos\trainer-code-1\1-VB\PhonebookApp\obj\Debug\net6.0\PhonebookApp.genruntimeconfig.cache
